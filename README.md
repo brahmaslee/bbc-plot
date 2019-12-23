@@ -24,3 +24,5 @@ plt.style.use("bbc")
 
 ## Usage
 See the example `plot.py` script and have fun!
+
+![Example](Example.png)
