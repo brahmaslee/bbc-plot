@@ -317,7 +317,7 @@ axes.spines.right  : False
 #axes.unicode_minus  : True    ## use unicode for the minus symbol
                                ## rather than hyphen.  See
                                ## http://en.wikipedia.org/wiki/Plus_and_minus_signs#Character_codes
-axes.prop_cycle    : cycler('color', ['0019a8', 'dc241f', 'ffd329', '007d32', '9b0058', '000000', '0097d8', 'f4a9be', 'b26300', 'a1a5a7', '93ceba'])
+axes.prop_cycle    : cycler('color', ['0097d8', 'dc241f', 'ffd329', '007d32', '9b0058', '000000', '0019a8', 'f4a9be', 'b26300', 'a1a5a7', '93ceba'])
                       ## color cycle for plot lines  as list of string
                       ## colorspecs: single letter, long name, or web-style hex
 					  ## Note the use of string escapes here ('1f77b4', instead of 1f77b4)
